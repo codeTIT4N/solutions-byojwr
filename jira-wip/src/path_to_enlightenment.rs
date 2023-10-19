@@ -53,3 +53,9 @@ mod delete_and_update;
 #[path = "koans/02_ticket_store/09_store_recap.rs"]
 mod store_recap;
 
+#[path = "koans/03_cli/00_cli.rs"]
+mod cli;
+
+#[path = "koans/03_cli/01_persistence.rs"]
+mod persistence;
+
